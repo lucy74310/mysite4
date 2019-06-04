@@ -1,0 +1,25 @@
+WebApplicationInitializer
+
+AbstractAnnotationConfigDispatcherServletInitializer
+
+
+mysite
+|---- mysite2
+|---- mysite3
+|---- mysite4
+|---- mysite5-boot
+
+
+jblog
+|---- jblog2
+|---- jblog3
+|---- jblog4
+|---- jblog5-boot
+
+spring-boot
+|---- springboot-springex
+|---- springboot-mysite
+|---- springboot-jblog
+
+
+
